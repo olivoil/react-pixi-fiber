@@ -17,6 +17,8 @@
   ],
   "dependencies": {
     "performance-now": "^2.1.0",
+    "pixi-viewport": "^1.1.6",
+    "react": "16.3.0-alpha.0",
     "react-reconciler": "^0.7.0"
   },
   "peerDependencies": {

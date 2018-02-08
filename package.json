@@ -54,7 +54,6 @@
 		"eslint": "eslint src",
 		"eslint-check": "eslint --print-config .eslintrc.json | eslint-config-prettier-check",
 		"prepublish": "npm run build",
-		"postinstall": "npm run build",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	}
 }
